@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification (CodeAlpha Internship Project)
+#  Iris Flower Classification 
 
 ## 📌 Overview
 This project applies **Machine Learning** to the famous **Iris dataset**, one of the most well-known datasets in the data science community.  
