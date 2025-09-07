@@ -77,3 +77,8 @@ The task is to classify the flowers into one of three species:
    ```bash
    git clone https://github.com/YOURUSERNAME/CodeAlpha_IrisClassification.git
    cd CodeAlpha_IrisClassification
+Install requirements:
+pip install -r requirements.txt
+
+Run the notebook:
+jupyter notebook
