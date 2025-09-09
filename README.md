@@ -22,7 +22,7 @@ The task is to classify the flowers into one of three species:
 
 ---
 
-## ⚙ Tech Stack
+##  Tech Stack
 - **Python**  
 - **Pandas / NumPy** → data handling  
 - **Matplotlib / Seaborn** → data visualization  
